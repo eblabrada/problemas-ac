@@ -4,7 +4,7 @@ Este proyecto consiste en dar solución a problemas computacionales utilizando M
 
 Según el ejercicio indiciado se debe hacer dos implementaciones:
 
-- La primera consistirá en una ASM que se debe implmentar sobre la plantilla [BigASM](./plantilla_logisim/BigASM.circ).
+- La primera consistirá en una ASM que se debe implmentar sobre la plantilla BigASM.
 
 - La segunda implementación consiste en generar un archivo `.asm` con el código en ensamblador *NASM* que dé solución al problema.
 
