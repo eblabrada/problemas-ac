@@ -66,7 +66,7 @@ El código de la implementación se debe desarrollar en la sección `.text`. Par
 
 ## Lista de Problemas
 
-1. Problema 38
+1. [Problema 38](./Problema%2039/)
 2. [Problema 54](./Problema%2054/)
 3. [Problema 72](./Problema%2072/)
-4. Problema 83
+4. [Problema 83](./Problema%2083/)
